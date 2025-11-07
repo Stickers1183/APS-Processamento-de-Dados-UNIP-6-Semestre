@@ -130,9 +130,9 @@ Abra seu navegador e acesse:
 
 ---
 
-## 📋 Modo de Uso (Passo a Passo para o Professor)
+## 📋 Modo de Uso 
 
-### 1. Teste de Login (Simulado)
+### 1. Teste de Login 
 
 1. Acesse `http://127.0.0.1:5000`.  
 2. Clique no botão do “Ministro” (ex: Usuário `a_001`).  
