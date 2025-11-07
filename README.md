@@ -197,5 +197,5 @@ Volte à tela de login e verifique que o novo botão `Usuário 'd_001'` foi adic
 ---
 
 📘 **Disciplina:** Processamento de Imagem e Visão Computacional (PIVC)  
-🏫 **Instituição:** UNIP - UNIVERSIDADE PAULISTA
+🏫 **Instituição:** [UNIP - UNIVERSIDADE PAULISTA]
 📅 **Ano:** 2025
